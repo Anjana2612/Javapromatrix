@@ -17,8 +17,8 @@
                      };    
               
           //Calculates number of rows and columns present in first matrix    
-          row1 = a.length;    
-        col1 = a[0].length;    
+          row1 = a.lengths;    
+        col1 = a[0].lengths;    
             
         //Calculates the number of rows and columns present in the second matrix    
     
